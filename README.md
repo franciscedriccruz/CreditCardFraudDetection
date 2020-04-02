@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-One interesting machine learning problem is the detection of fraudulent credit card transactions. A main issue of many of these kinds of problems is due to an imbalanced dataset. In this notebook, I used the credit card transaction dataset from European card holders in 2013 hosted on Kaggle (), and have used some of the techniques introduced by other data scientists in tacking such imbalanced datasets. The data set only contains numerical input variables which are a result of a PCA transformation. Due to confidentiality issues, the names of the original features and background information about the data is not shown. 
+One interesting machine learning problem is the detection of fraudulent credit card transactions. A main issue of many of these kinds of problems is due to an imbalanced dataset. In this notebook, I used the credit card transaction dataset from European card holders in 2013 hosted on Kaggle (https://www.kaggle.com/mlg-ulb/creditcardfraud), and have used some of the techniques introduced by other data scientists in tacking such imbalanced datasets. The data set only contains numerical input variables which are a result of a PCA transformation. Due to confidentiality issues, the names of the original features and background information about the data is not shown. 
 
 # Data Exploration
 A brief look at the data set indicates that there are more non-fraudulent transactions compared to fraudulent transactions. 
